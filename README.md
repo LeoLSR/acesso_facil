@@ -1,4 +1,4 @@
-![image](https://github.com/LeoLSR/acesso_facil/assets/107216432/946299af-8d8e-4db5-87e0-b11260f786c0)Dependencias:
+Dependencias:
 
 pip install customtkinter, pillow 
 
